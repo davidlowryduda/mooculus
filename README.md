@@ -1,3 +1,5 @@
+## This is not the main provider page for mooculus. This is my personal copy, so that I can explore and toy with the idea of a free-er route to calculus education.
+
 ## Live version
 
 A [live demo](https://mooculus.osu.edu/) is available at [mooculus.osu.edu](https://mooculus.osu.edu/).  You may also be interested in enrolling in [the associated Coursera course](https://www.coursera.org/course/calc1).
